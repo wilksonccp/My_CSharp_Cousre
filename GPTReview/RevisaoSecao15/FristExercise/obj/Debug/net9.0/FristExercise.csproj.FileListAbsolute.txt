@@ -1,0 +1,14 @@
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao15\FristExercise\bin\Debug\net9.0\FristExercise.exe
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao15\FristExercise\bin\Debug\net9.0\FristExercise.deps.json
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao15\FristExercise\bin\Debug\net9.0\FristExercise.runtimeconfig.json
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao15\FristExercise\bin\Debug\net9.0\FristExercise.dll
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao15\FristExercise\bin\Debug\net9.0\FristExercise.pdb
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao15\FristExercise\obj\Debug\net9.0\FristExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao15\FristExercise\obj\Debug\net9.0\FristExercise.AssemblyInfoInputs.cache
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao15\FristExercise\obj\Debug\net9.0\FristExercise.AssemblyInfo.cs
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao15\FristExercise\obj\Debug\net9.0\FristExercise.csproj.CoreCompileInputs.cache
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao15\FristExercise\obj\Debug\net9.0\FristExercise.dll
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao15\FristExercise\obj\Debug\net9.0\refint\FristExercise.dll
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao15\FristExercise\obj\Debug\net9.0\FristExercise.pdb
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao15\FristExercise\obj\Debug\net9.0\FristExercise.genruntimeconfig.cache
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao15\FristExercise\obj\Debug\net9.0\ref\FristExercise.dll

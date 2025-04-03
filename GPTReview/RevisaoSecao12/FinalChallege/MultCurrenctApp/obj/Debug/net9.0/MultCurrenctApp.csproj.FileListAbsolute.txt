@@ -1,0 +1,14 @@
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao12\FinalChallege\MultCurrenctApp\obj\Debug\net9.0\MultCurrenctApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao12\FinalChallege\MultCurrenctApp\obj\Debug\net9.0\MultCurrenctApp.AssemblyInfoInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao12\FinalChallege\MultCurrenctApp\obj\Debug\net9.0\MultCurrenctApp.AssemblyInfo.cs
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao12\FinalChallege\MultCurrenctApp\obj\Debug\net9.0\MultCurrenctApp.csproj.CoreCompileInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao12\FinalChallege\MultCurrenctApp\bin\Debug\net9.0\MultCurrenctApp.exe
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao12\FinalChallege\MultCurrenctApp\bin\Debug\net9.0\MultCurrenctApp.deps.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao12\FinalChallege\MultCurrenctApp\bin\Debug\net9.0\MultCurrenctApp.runtimeconfig.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao12\FinalChallege\MultCurrenctApp\bin\Debug\net9.0\MultCurrenctApp.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao12\FinalChallege\MultCurrenctApp\bin\Debug\net9.0\MultCurrenctApp.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao12\FinalChallege\MultCurrenctApp\obj\Debug\net9.0\MultCurrenctApp.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao12\FinalChallege\MultCurrenctApp\obj\Debug\net9.0\refint\MultCurrenctApp.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao12\FinalChallege\MultCurrenctApp\obj\Debug\net9.0\MultCurrenctApp.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao12\FinalChallege\MultCurrenctApp\obj\Debug\net9.0\MultCurrenctApp.genruntimeconfig.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao12\FinalChallege\MultCurrenctApp\obj\Debug\net9.0\ref\MultCurrenctApp.dll

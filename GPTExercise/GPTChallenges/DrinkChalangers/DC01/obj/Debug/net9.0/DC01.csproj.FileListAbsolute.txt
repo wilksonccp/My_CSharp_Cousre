@@ -1,0 +1,14 @@
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\GPTChallenges\DrinkChalangers\DC01\bin\Debug\net9.0\DC01.exe
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\GPTChallenges\DrinkChalangers\DC01\bin\Debug\net9.0\DC01.deps.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\GPTChallenges\DrinkChalangers\DC01\bin\Debug\net9.0\DC01.runtimeconfig.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\GPTChallenges\DrinkChalangers\DC01\bin\Debug\net9.0\DC01.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\GPTChallenges\DrinkChalangers\DC01\bin\Debug\net9.0\DC01.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\GPTChallenges\DrinkChalangers\DC01\obj\Debug\net9.0\DC01.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\GPTChallenges\DrinkChalangers\DC01\obj\Debug\net9.0\DC01.AssemblyInfoInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\GPTChallenges\DrinkChalangers\DC01\obj\Debug\net9.0\DC01.AssemblyInfo.cs
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\GPTChallenges\DrinkChalangers\DC01\obj\Debug\net9.0\DC01.csproj.CoreCompileInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\GPTChallenges\DrinkChalangers\DC01\obj\Debug\net9.0\DC01.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\GPTChallenges\DrinkChalangers\DC01\obj\Debug\net9.0\refint\DC01.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\GPTChallenges\DrinkChalangers\DC01\obj\Debug\net9.0\DC01.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\GPTChallenges\DrinkChalangers\DC01\obj\Debug\net9.0\DC01.genruntimeconfig.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\GPTChallenges\DrinkChalangers\DC01\obj\Debug\net9.0\ref\DC01.dll

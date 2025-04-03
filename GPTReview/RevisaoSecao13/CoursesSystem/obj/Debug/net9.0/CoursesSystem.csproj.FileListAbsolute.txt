@@ -1,0 +1,14 @@
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSessão13\CoursesSystem\bin\Debug\net9.0\CoursesSystem.exe
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSessão13\CoursesSystem\bin\Debug\net9.0\CoursesSystem.deps.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSessão13\CoursesSystem\bin\Debug\net9.0\CoursesSystem.runtimeconfig.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSessão13\CoursesSystem\bin\Debug\net9.0\CoursesSystem.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSessão13\CoursesSystem\bin\Debug\net9.0\CoursesSystem.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSessão13\CoursesSystem\obj\Debug\net9.0\CoursesSystem.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSessão13\CoursesSystem\obj\Debug\net9.0\CoursesSystem.AssemblyInfoInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSessão13\CoursesSystem\obj\Debug\net9.0\CoursesSystem.AssemblyInfo.cs
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSessão13\CoursesSystem\obj\Debug\net9.0\CoursesSystem.csproj.CoreCompileInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSessão13\CoursesSystem\obj\Debug\net9.0\CoursesSystem.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSessão13\CoursesSystem\obj\Debug\net9.0\refint\CoursesSystem.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSessão13\CoursesSystem\obj\Debug\net9.0\CoursesSystem.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSessão13\CoursesSystem\obj\Debug\net9.0\CoursesSystem.genruntimeconfig.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSessão13\CoursesSystem\obj\Debug\net9.0\ref\CoursesSystem.dll

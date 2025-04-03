@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintGenericService", "PrintGenericService\PrintGenericService.csproj", "{E5FD80F1-7C35-45E7-8FA1-113110F4DAB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoursesSystem", "CoursesSystem\CoursesSystem.csproj", "{7818CE57-C4E2-4E8E-BA62-D00F5C5AC849}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VotesCounter", "VotesCounter\VotesCounter.csproj", "{98E1A511-8FB1-4B55-97DF-584B13606913}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventSystem", "EventSystem\EventSystem.csproj", "{65D2AF1E-8D7A-4B1A-B916-6DE97E50882F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5FD80F1-7C35-45E7-8FA1-113110F4DAB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5FD80F1-7C35-45E7-8FA1-113110F4DAB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5FD80F1-7C35-45E7-8FA1-113110F4DAB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5FD80F1-7C35-45E7-8FA1-113110F4DAB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7818CE57-C4E2-4E8E-BA62-D00F5C5AC849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7818CE57-C4E2-4E8E-BA62-D00F5C5AC849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7818CE57-C4E2-4E8E-BA62-D00F5C5AC849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7818CE57-C4E2-4E8E-BA62-D00F5C5AC849}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98E1A511-8FB1-4B55-97DF-584B13606913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98E1A511-8FB1-4B55-97DF-584B13606913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98E1A511-8FB1-4B55-97DF-584B13606913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98E1A511-8FB1-4B55-97DF-584B13606913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65D2AF1E-8D7A-4B1A-B916-6DE97E50882F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65D2AF1E-8D7A-4B1A-B916-6DE97E50882F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65D2AF1E-8D7A-4B1A-B916-6DE97E50882F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65D2AF1E-8D7A-4B1A-B916-6DE97E50882F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

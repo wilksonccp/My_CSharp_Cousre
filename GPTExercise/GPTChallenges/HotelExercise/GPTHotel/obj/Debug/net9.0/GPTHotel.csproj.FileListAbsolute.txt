@@ -1,0 +1,14 @@
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\HotelExercise\GPTHotel\bin\Debug\net9.0\GPTHotel.exe
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\HotelExercise\GPTHotel\bin\Debug\net9.0\GPTHotel.deps.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\HotelExercise\GPTHotel\bin\Debug\net9.0\GPTHotel.runtimeconfig.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\HotelExercise\GPTHotel\bin\Debug\net9.0\GPTHotel.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\HotelExercise\GPTHotel\bin\Debug\net9.0\GPTHotel.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\HotelExercise\GPTHotel\obj\Debug\net9.0\GPTHotel.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\HotelExercise\GPTHotel\obj\Debug\net9.0\GPTHotel.AssemblyInfoInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\HotelExercise\GPTHotel\obj\Debug\net9.0\GPTHotel.AssemblyInfo.cs
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\HotelExercise\GPTHotel\obj\Debug\net9.0\GPTHotel.csproj.CoreCompileInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\HotelExercise\GPTHotel\obj\Debug\net9.0\GPTHotel.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\HotelExercise\GPTHotel\obj\Debug\net9.0\refint\GPTHotel.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\HotelExercise\GPTHotel\obj\Debug\net9.0\GPTHotel.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\HotelExercise\GPTHotel\obj\Debug\net9.0\GPTHotel.genruntimeconfig.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\HotelExercise\GPTHotel\obj\Debug\net9.0\ref\GPTHotel.dll

@@ -1,0 +1,14 @@
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSessão13\VotesCounter\bin\Debug\net9.0\VotesCounter.exe
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSessão13\VotesCounter\bin\Debug\net9.0\VotesCounter.deps.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSessão13\VotesCounter\bin\Debug\net9.0\VotesCounter.runtimeconfig.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSessão13\VotesCounter\bin\Debug\net9.0\VotesCounter.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSessão13\VotesCounter\bin\Debug\net9.0\VotesCounter.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSessão13\VotesCounter\obj\Debug\net9.0\VotesCounter.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSessão13\VotesCounter\obj\Debug\net9.0\VotesCounter.AssemblyInfoInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSessão13\VotesCounter\obj\Debug\net9.0\VotesCounter.AssemblyInfo.cs
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSessão13\VotesCounter\obj\Debug\net9.0\VotesCounter.csproj.CoreCompileInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSessão13\VotesCounter\obj\Debug\net9.0\VotesCounter.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSessão13\VotesCounter\obj\Debug\net9.0\refint\VotesCounter.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSessão13\VotesCounter\obj\Debug\net9.0\VotesCounter.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSessão13\VotesCounter\obj\Debug\net9.0\VotesCounter.genruntimeconfig.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSessão13\VotesCounter\obj\Debug\net9.0\ref\VotesCounter.dll

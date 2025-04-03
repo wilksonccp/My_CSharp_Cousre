@@ -1,0 +1,14 @@
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao12\InterfaceExercise\bin\Debug\net9.0\InterfaceExercise.exe
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao12\InterfaceExercise\bin\Debug\net9.0\InterfaceExercise.deps.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao12\InterfaceExercise\bin\Debug\net9.0\InterfaceExercise.runtimeconfig.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao12\InterfaceExercise\bin\Debug\net9.0\InterfaceExercise.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao12\InterfaceExercise\bin\Debug\net9.0\InterfaceExercise.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao12\InterfaceExercise\obj\Debug\net9.0\InterfaceExercise.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao12\InterfaceExercise\obj\Debug\net9.0\InterfaceExercise.AssemblyInfoInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao12\InterfaceExercise\obj\Debug\net9.0\InterfaceExercise.AssemblyInfo.cs
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao12\InterfaceExercise\obj\Debug\net9.0\InterfaceExercise.csproj.CoreCompileInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao12\InterfaceExercise\obj\Debug\net9.0\InterfaceExercise.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao12\InterfaceExercise\obj\Debug\net9.0\refint\InterfaceExercise.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao12\InterfaceExercise\obj\Debug\net9.0\InterfaceExercise.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao12\InterfaceExercise\obj\Debug\net9.0\InterfaceExercise.genruntimeconfig.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\RevisaoSecao12\InterfaceExercise\obj\Debug\net9.0\ref\InterfaceExercise.dll

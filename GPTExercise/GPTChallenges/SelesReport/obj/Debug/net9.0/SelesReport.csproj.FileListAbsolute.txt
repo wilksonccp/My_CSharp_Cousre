@@ -1,0 +1,14 @@
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\GPTChallenges\SelesReport\bin\Debug\net9.0\SelesReport.exe
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\GPTChallenges\SelesReport\bin\Debug\net9.0\SelesReport.deps.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\GPTChallenges\SelesReport\bin\Debug\net9.0\SelesReport.runtimeconfig.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\GPTChallenges\SelesReport\bin\Debug\net9.0\SelesReport.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\GPTChallenges\SelesReport\bin\Debug\net9.0\SelesReport.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\GPTChallenges\SelesReport\obj\Debug\net9.0\SelesReport.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\GPTChallenges\SelesReport\obj\Debug\net9.0\SelesReport.AssemblyInfoInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\GPTChallenges\SelesReport\obj\Debug\net9.0\SelesReport.AssemblyInfo.cs
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\GPTChallenges\SelesReport\obj\Debug\net9.0\SelesReport.csproj.CoreCompileInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\GPTChallenges\SelesReport\obj\Debug\net9.0\SelesReport.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\GPTChallenges\SelesReport\obj\Debug\net9.0\refint\SelesReport.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\GPTChallenges\SelesReport\obj\Debug\net9.0\SelesReport.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\GPTChallenges\SelesReport\obj\Debug\net9.0\SelesReport.genruntimeconfig.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExerciciosGPT\GPTChallenges\SelesReport\obj\Debug\net9.0\ref\SelesReport.dll
