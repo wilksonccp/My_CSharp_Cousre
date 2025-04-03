@@ -1,0 +1,15 @@
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao06\ExercicioDeFixacao01\bin\Debug\net8.0\ExercicioDeFixacao01.exe
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao06\ExercicioDeFixacao01\bin\Debug\net8.0\ExercicioDeFixacao01.deps.json
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao06\ExercicioDeFixacao01\bin\Debug\net8.0\ExercicioDeFixacao01.runtimeconfig.json
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao06\ExercicioDeFixacao01\bin\Debug\net8.0\ExercicioDeFixacao01.dll
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao06\ExercicioDeFixacao01\bin\Debug\net8.0\ExercicioDeFixacao01.pdb
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao06\ExercicioDeFixacao01\obj\Debug\net8.0\ExercicioDeFixacao01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao06\ExercicioDeFixacao01\obj\Debug\net8.0\ExercicioDeFixacao01.AssemblyInfoInputs.cache
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao06\ExercicioDeFixacao01\obj\Debug\net8.0\ExercicioDeFixacao01.AssemblyInfo.cs
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao06\ExercicioDeFixacao01\obj\Debug\net8.0\ExercicioDeFixacao01.csproj.CoreCompileInputs.cache
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao06\ExercicioDeFixacao01\obj\Debug\net8.0\ExercicioDeFixacao01.sourcelink.json
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao06\ExercicioDeFixacao01\obj\Debug\net8.0\ExercicioDeFixacao01.dll
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao06\ExercicioDeFixacao01\obj\Debug\net8.0\refint\ExercicioDeFixacao01.dll
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao06\ExercicioDeFixacao01\obj\Debug\net8.0\ExercicioDeFixacao01.pdb
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao06\ExercicioDeFixacao01\obj\Debug\net8.0\ExercicioDeFixacao01.genruntimeconfig.cache
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao06\ExercicioDeFixacao01\obj\Debug\net8.0\ref\ExercicioDeFixacao01.dll

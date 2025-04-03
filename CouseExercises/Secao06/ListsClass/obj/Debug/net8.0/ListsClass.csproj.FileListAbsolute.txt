@@ -1,0 +1,15 @@
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao06\ListsClass\bin\Debug\net8.0\ListsClass.exe
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao06\ListsClass\bin\Debug\net8.0\ListsClass.deps.json
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao06\ListsClass\bin\Debug\net8.0\ListsClass.runtimeconfig.json
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao06\ListsClass\bin\Debug\net8.0\ListsClass.dll
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao06\ListsClass\bin\Debug\net8.0\ListsClass.pdb
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao06\ListsClass\obj\Debug\net8.0\ListsClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao06\ListsClass\obj\Debug\net8.0\ListsClass.AssemblyInfoInputs.cache
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao06\ListsClass\obj\Debug\net8.0\ListsClass.AssemblyInfo.cs
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao06\ListsClass\obj\Debug\net8.0\ListsClass.csproj.CoreCompileInputs.cache
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao06\ListsClass\obj\Debug\net8.0\ListsClass.sourcelink.json
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao06\ListsClass\obj\Debug\net8.0\ListsClass.dll
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao06\ListsClass\obj\Debug\net8.0\refint\ListsClass.dll
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao06\ListsClass\obj\Debug\net8.0\ListsClass.pdb
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao06\ListsClass\obj\Debug\net8.0\ListsClass.genruntimeconfig.cache
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao06\ListsClass\obj\Debug\net8.0\ref\ListsClass.dll

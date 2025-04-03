@@ -1,0 +1,14 @@
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ClassExercise\bin\Debug\net9.0\ClassExercise.exe
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ClassExercise\bin\Debug\net9.0\ClassExercise.deps.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ClassExercise\bin\Debug\net9.0\ClassExercise.runtimeconfig.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ClassExercise\bin\Debug\net9.0\ClassExercise.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ClassExercise\bin\Debug\net9.0\ClassExercise.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ClassExercise\obj\Debug\net9.0\ClassExercise.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ClassExercise\obj\Debug\net9.0\ClassExercise.AssemblyInfoInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ClassExercise\obj\Debug\net9.0\ClassExercise.AssemblyInfo.cs
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ClassExercise\obj\Debug\net9.0\ClassExercise.csproj.CoreCompileInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ClassExercise\obj\Debug\net9.0\ClassExercise.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ClassExercise\obj\Debug\net9.0\refint\ClassExercise.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ClassExercise\obj\Debug\net9.0\ClassExercise.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ClassExercise\obj\Debug\net9.0\ClassExercise.genruntimeconfig.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ClassExercise\obj\Debug\net9.0\ref\ClassExercise.dll

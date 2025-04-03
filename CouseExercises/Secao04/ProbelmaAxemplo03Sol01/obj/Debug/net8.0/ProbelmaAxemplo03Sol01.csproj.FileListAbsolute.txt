@@ -1,0 +1,14 @@
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao04\ProbelmaAxemplo03Sol01\bin\Debug\net8.0\ProbelmaAxemplo03Sol01.exe
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao04\ProbelmaAxemplo03Sol01\bin\Debug\net8.0\ProbelmaAxemplo03Sol01.deps.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao04\ProbelmaAxemplo03Sol01\bin\Debug\net8.0\ProbelmaAxemplo03Sol01.runtimeconfig.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao04\ProbelmaAxemplo03Sol01\bin\Debug\net8.0\ProbelmaAxemplo03Sol01.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao04\ProbelmaAxemplo03Sol01\bin\Debug\net8.0\ProbelmaAxemplo03Sol01.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao04\ProbelmaAxemplo03Sol01\obj\Debug\net8.0\ProbelmaAxemplo03Sol01.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao04\ProbelmaAxemplo03Sol01\obj\Debug\net8.0\ProbelmaAxemplo03Sol01.AssemblyInfoInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao04\ProbelmaAxemplo03Sol01\obj\Debug\net8.0\ProbelmaAxemplo03Sol01.AssemblyInfo.cs
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao04\ProbelmaAxemplo03Sol01\obj\Debug\net8.0\ProbelmaAxemplo03Sol01.csproj.CoreCompileInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao04\ProbelmaAxemplo03Sol01\obj\Debug\net8.0\ProbelmaAxemplo03Sol01.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao04\ProbelmaAxemplo03Sol01\obj\Debug\net8.0\refint\ProbelmaAxemplo03Sol01.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao04\ProbelmaAxemplo03Sol01\obj\Debug\net8.0\ProbelmaAxemplo03Sol01.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao04\ProbelmaAxemplo03Sol01\obj\Debug\net8.0\ProbelmaAxemplo03Sol01.genruntimeconfig.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao04\ProbelmaAxemplo03Sol01\obj\Debug\net8.0\ref\ProbelmaAxemplo03Sol01.dll

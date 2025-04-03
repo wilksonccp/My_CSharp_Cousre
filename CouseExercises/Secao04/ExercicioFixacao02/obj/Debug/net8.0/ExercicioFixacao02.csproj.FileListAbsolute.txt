@@ -1,0 +1,14 @@
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao04\ExercicioFixacao02\bin\Debug\net8.0\ExercicioFixacao02.exe
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao04\ExercicioFixacao02\bin\Debug\net8.0\ExercicioFixacao02.deps.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao04\ExercicioFixacao02\bin\Debug\net8.0\ExercicioFixacao02.runtimeconfig.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao04\ExercicioFixacao02\bin\Debug\net8.0\ExercicioFixacao02.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao04\ExercicioFixacao02\bin\Debug\net8.0\ExercicioFixacao02.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao04\ExercicioFixacao02\obj\Debug\net8.0\ExercicioFixacao02.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao04\ExercicioFixacao02\obj\Debug\net8.0\ExercicioFixacao02.AssemblyInfoInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao04\ExercicioFixacao02\obj\Debug\net8.0\ExercicioFixacao02.AssemblyInfo.cs
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao04\ExercicioFixacao02\obj\Debug\net8.0\ExercicioFixacao02.csproj.CoreCompileInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao04\ExercicioFixacao02\obj\Debug\net8.0\ExercicioFixacao02.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao04\ExercicioFixacao02\obj\Debug\net8.0\refint\ExercicioFixacao02.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao04\ExercicioFixacao02\obj\Debug\net8.0\ExercicioFixacao02.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao04\ExercicioFixacao02\obj\Debug\net8.0\ExercicioFixacao02.genruntimeconfig.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao04\ExercicioFixacao02\obj\Debug\net8.0\ref\ExercicioFixacao02.dll

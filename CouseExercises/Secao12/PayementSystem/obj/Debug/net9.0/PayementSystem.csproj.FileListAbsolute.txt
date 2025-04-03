@@ -1,0 +1,14 @@
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao12\PayementSystem\obj\Debug\net9.0\PayementSystem.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao12\PayementSystem\obj\Debug\net9.0\PayementSystem.AssemblyInfoInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao12\PayementSystem\obj\Debug\net9.0\PayementSystem.AssemblyInfo.cs
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao12\PayementSystem\obj\Debug\net9.0\PayementSystem.csproj.CoreCompileInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao12\PayementSystem\bin\Debug\net9.0\PayementSystem.exe
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao12\PayementSystem\bin\Debug\net9.0\PayementSystem.deps.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao12\PayementSystem\bin\Debug\net9.0\PayementSystem.runtimeconfig.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao12\PayementSystem\bin\Debug\net9.0\PayementSystem.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao12\PayementSystem\bin\Debug\net9.0\PayementSystem.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao12\PayementSystem\obj\Debug\net9.0\PayementSystem.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao12\PayementSystem\obj\Debug\net9.0\refint\PayementSystem.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao12\PayementSystem\obj\Debug\net9.0\PayementSystem.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao12\PayementSystem\obj\Debug\net9.0\PayementSystem.genruntimeconfig.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao12\PayementSystem\obj\Debug\net9.0\ref\PayementSystem.dll

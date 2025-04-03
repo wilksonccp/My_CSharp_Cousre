@@ -1,0 +1,14 @@
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao09\ExercicioResolvido02\bin\Debug\net8.0\ExercicioResolvido02.exe
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao09\ExercicioResolvido02\bin\Debug\net8.0\ExercicioResolvido02.deps.json
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao09\ExercicioResolvido02\bin\Debug\net8.0\ExercicioResolvido02.runtimeconfig.json
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao09\ExercicioResolvido02\bin\Debug\net8.0\ExercicioResolvido02.dll
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao09\ExercicioResolvido02\bin\Debug\net8.0\ExercicioResolvido02.pdb
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao09\ExercicioResolvido02\obj\Debug\net8.0\ExercicioResolvido02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao09\ExercicioResolvido02\obj\Debug\net8.0\ExercicioResolvido02.AssemblyInfoInputs.cache
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao09\ExercicioResolvido02\obj\Debug\net8.0\ExercicioResolvido02.AssemblyInfo.cs
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao09\ExercicioResolvido02\obj\Debug\net8.0\ExercicioResolvido02.csproj.CoreCompileInputs.cache
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao09\ExercicioResolvido02\obj\Debug\net8.0\ExercicioResolvido02.dll
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao09\ExercicioResolvido02\obj\Debug\net8.0\refint\ExercicioResolvido02.dll
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao09\ExercicioResolvido02\obj\Debug\net8.0\ExercicioResolvido02.pdb
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao09\ExercicioResolvido02\obj\Debug\net8.0\ExercicioResolvido02.genruntimeconfig.cache
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao09\ExercicioResolvido02\obj\Debug\net8.0\ref\ExercicioResolvido02.dll

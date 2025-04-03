@@ -1,0 +1,14 @@
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao10\FristExememple\obj\Debug\net9.0\FristExememple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao10\FristExememple\obj\Debug\net9.0\FristExememple.AssemblyInfoInputs.cache
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao10\FristExememple\obj\Debug\net9.0\FristExememple.AssemblyInfo.cs
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao10\FristExememple\obj\Debug\net9.0\FristExememple.csproj.CoreCompileInputs.cache
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao10\FristExememple\bin\Debug\net9.0\FristExememple.exe
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao10\FristExememple\bin\Debug\net9.0\FristExememple.deps.json
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao10\FristExememple\bin\Debug\net9.0\FristExememple.runtimeconfig.json
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao10\FristExememple\bin\Debug\net9.0\FristExememple.dll
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao10\FristExememple\bin\Debug\net9.0\FristExememple.pdb
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao10\FristExememple\obj\Debug\net9.0\FristExememple.dll
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao10\FristExememple\obj\Debug\net9.0\refint\FristExememple.dll
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao10\FristExememple\obj\Debug\net9.0\FristExememple.pdb
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao10\FristExememple\obj\Debug\net9.0\FristExememple.genruntimeconfig.cache
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao10\FristExememple\obj\Debug\net9.0\ref\FristExememple.dll

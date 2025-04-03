@@ -1,0 +1,14 @@
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao11\ExercicioFixacao\bin\Debug\net9.0\ExercicioFixacao.exe
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao11\ExercicioFixacao\bin\Debug\net9.0\ExercicioFixacao.deps.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao11\ExercicioFixacao\bin\Debug\net9.0\ExercicioFixacao.runtimeconfig.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao11\ExercicioFixacao\bin\Debug\net9.0\ExercicioFixacao.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao11\ExercicioFixacao\bin\Debug\net9.0\ExercicioFixacao.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao11\ExercicioFixacao\obj\Debug\net9.0\ExercicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao11\ExercicioFixacao\obj\Debug\net9.0\ExercicioFixacao.AssemblyInfoInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao11\ExercicioFixacao\obj\Debug\net9.0\ExercicioFixacao.AssemblyInfo.cs
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao11\ExercicioFixacao\obj\Debug\net9.0\ExercicioFixacao.csproj.CoreCompileInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao11\ExercicioFixacao\obj\Debug\net9.0\ExercicioFixacao.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao11\ExercicioFixacao\obj\Debug\net9.0\refint\ExercicioFixacao.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao11\ExercicioFixacao\obj\Debug\net9.0\ExercicioFixacao.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao11\ExercicioFixacao\obj\Debug\net9.0\ExercicioFixacao.genruntimeconfig.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao11\ExercicioFixacao\obj\Debug\net9.0\ref\ExercicioFixacao.dll

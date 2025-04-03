@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProbelmaExemplo01/1.0.0": {
+        "runtime": {
+          "ProbelmaExemplo01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProbelmaExemplo01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

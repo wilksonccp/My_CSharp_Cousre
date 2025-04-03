@@ -1,0 +1,14 @@
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ClassExercise01\bin\Debug\net9.0\ClassExercise01.exe
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ClassExercise01\bin\Debug\net9.0\ClassExercise01.deps.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ClassExercise01\bin\Debug\net9.0\ClassExercise01.runtimeconfig.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ClassExercise01\bin\Debug\net9.0\ClassExercise01.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ClassExercise01\bin\Debug\net9.0\ClassExercise01.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ClassExercise01\obj\Debug\net9.0\ClassExercise01.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ClassExercise01\obj\Debug\net9.0\ClassExercise01.AssemblyInfoInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ClassExercise01\obj\Debug\net9.0\ClassExercise01.AssemblyInfo.cs
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ClassExercise01\obj\Debug\net9.0\ClassExercise01.csproj.CoreCompileInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ClassExercise01\obj\Debug\net9.0\ClassExercise01.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ClassExercise01\obj\Debug\net9.0\refint\ClassExercise01.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ClassExercise01\obj\Debug\net9.0\ClassExercise01.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ClassExercise01\obj\Debug\net9.0\ClassExercise01.genruntimeconfig.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ClassExercise01\obj\Debug\net9.0\ref\ClassExercise01.dll

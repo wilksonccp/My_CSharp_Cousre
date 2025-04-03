@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProbelmaExemplo01", "ProbelmaExemplo01\ProbelmaExemplo01.csproj", "{ECE62DA8-3210-407C-8C13-7B717F306C98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioDeFixacao", "ExercicioDeFixacao\ExercicioDeFixacao.csproj", "{F6F97C92-0877-484E-8325-5D63227CF3F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECE62DA8-3210-407C-8C13-7B717F306C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE62DA8-3210-407C-8C13-7B717F306C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE62DA8-3210-407C-8C13-7B717F306C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE62DA8-3210-407C-8C13-7B717F306C98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6F97C92-0877-484E-8325-5D63227CF3F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6F97C92-0877-484E-8325-5D63227CF3F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6F97C92-0877-484E-8325-5D63227CF3F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6F97C92-0877-484E-8325-5D63227CF3F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

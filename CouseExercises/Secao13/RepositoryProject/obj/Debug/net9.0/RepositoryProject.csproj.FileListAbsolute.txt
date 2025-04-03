@@ -1,0 +1,14 @@
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\RepositoryProject\bin\Debug\net9.0\RepositoryProject.exe
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\RepositoryProject\bin\Debug\net9.0\RepositoryProject.deps.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\RepositoryProject\bin\Debug\net9.0\RepositoryProject.runtimeconfig.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\RepositoryProject\bin\Debug\net9.0\RepositoryProject.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\RepositoryProject\bin\Debug\net9.0\RepositoryProject.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\RepositoryProject\obj\Debug\net9.0\RepositoryProject.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\RepositoryProject\obj\Debug\net9.0\RepositoryProject.AssemblyInfoInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\RepositoryProject\obj\Debug\net9.0\RepositoryProject.AssemblyInfo.cs
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\RepositoryProject\obj\Debug\net9.0\RepositoryProject.csproj.CoreCompileInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\RepositoryProject\obj\Debug\net9.0\RepositoryProject.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\RepositoryProject\obj\Debug\net9.0\refint\RepositoryProject.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\RepositoryProject\obj\Debug\net9.0\RepositoryProject.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\RepositoryProject\obj\Debug\net9.0\RepositoryProject.genruntimeconfig.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\RepositoryProject\obj\Debug\net9.0\ref\RepositoryProject.dll

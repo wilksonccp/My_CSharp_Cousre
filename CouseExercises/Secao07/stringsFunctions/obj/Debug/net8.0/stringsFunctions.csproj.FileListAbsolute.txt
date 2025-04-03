@@ -1,0 +1,14 @@
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao07\stringsFunctions\bin\Debug\net8.0\stringsFunctions.exe
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao07\stringsFunctions\bin\Debug\net8.0\stringsFunctions.deps.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao07\stringsFunctions\bin\Debug\net8.0\stringsFunctions.runtimeconfig.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao07\stringsFunctions\bin\Debug\net8.0\stringsFunctions.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao07\stringsFunctions\bin\Debug\net8.0\stringsFunctions.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao07\stringsFunctions\obj\Debug\net8.0\stringsFunctions.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao07\stringsFunctions\obj\Debug\net8.0\stringsFunctions.AssemblyInfoInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao07\stringsFunctions\obj\Debug\net8.0\stringsFunctions.AssemblyInfo.cs
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao07\stringsFunctions\obj\Debug\net8.0\stringsFunctions.csproj.CoreCompileInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao07\stringsFunctions\obj\Debug\net8.0\stringsFunctions.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao07\stringsFunctions\obj\Debug\net8.0\refint\stringsFunctions.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao07\stringsFunctions\obj\Debug\net8.0\stringsFunctions.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao07\stringsFunctions\obj\Debug\net8.0\stringsFunctions.genruntimeconfig.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao07\stringsFunctions\obj\Debug\net8.0\ref\stringsFunctions.dll

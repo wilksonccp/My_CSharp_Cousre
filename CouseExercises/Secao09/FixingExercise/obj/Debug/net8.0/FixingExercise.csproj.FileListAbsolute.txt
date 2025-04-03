@@ -1,0 +1,14 @@
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao09\FixingExercise\bin\Debug\net8.0\FixingExercise.exe
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao09\FixingExercise\bin\Debug\net8.0\FixingExercise.deps.json
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao09\FixingExercise\bin\Debug\net8.0\FixingExercise.runtimeconfig.json
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao09\FixingExercise\bin\Debug\net8.0\FixingExercise.dll
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao09\FixingExercise\bin\Debug\net8.0\FixingExercise.pdb
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao09\FixingExercise\obj\Debug\net8.0\FixingExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao09\FixingExercise\obj\Debug\net8.0\FixingExercise.AssemblyInfoInputs.cache
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao09\FixingExercise\obj\Debug\net8.0\FixingExercise.AssemblyInfo.cs
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao09\FixingExercise\obj\Debug\net8.0\FixingExercise.csproj.CoreCompileInputs.cache
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao09\FixingExercise\obj\Debug\net8.0\FixingExercise.dll
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao09\FixingExercise\obj\Debug\net8.0\refint\FixingExercise.dll
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao09\FixingExercise\obj\Debug\net8.0\FixingExercise.pdb
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao09\FixingExercise\obj\Debug\net8.0\FixingExercise.genruntimeconfig.cache
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao09\FixingExercise\obj\Debug\net8.0\ref\FixingExercise.dll

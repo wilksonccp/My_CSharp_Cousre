@@ -1,0 +1,14 @@
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\SolvedExercise\bin\Debug\net9.0\SolvedExercise.exe
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\SolvedExercise\bin\Debug\net9.0\SolvedExercise.deps.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\SolvedExercise\bin\Debug\net9.0\SolvedExercise.runtimeconfig.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\SolvedExercise\bin\Debug\net9.0\SolvedExercise.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\SolvedExercise\bin\Debug\net9.0\SolvedExercise.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\SolvedExercise\obj\Debug\net9.0\SolvedExercise.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\SolvedExercise\obj\Debug\net9.0\SolvedExercise.AssemblyInfoInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\SolvedExercise\obj\Debug\net9.0\SolvedExercise.AssemblyInfo.cs
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\SolvedExercise\obj\Debug\net9.0\SolvedExercise.csproj.CoreCompileInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\SolvedExercise\obj\Debug\net9.0\SolvedExercise.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\SolvedExercise\obj\Debug\net9.0\refint\SolvedExercise.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\SolvedExercise\obj\Debug\net9.0\SolvedExercise.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\SolvedExercise\obj\Debug\net9.0\SolvedExercise.genruntimeconfig.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\SolvedExercise\obj\Debug\net9.0\ref\SolvedExercise.dll

@@ -1,0 +1,14 @@
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ExercicioProposto\bin\Debug\net9.0\ExercicioProposto.exe
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ExercicioProposto\bin\Debug\net9.0\ExercicioProposto.deps.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ExercicioProposto\bin\Debug\net9.0\ExercicioProposto.runtimeconfig.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ExercicioProposto\bin\Debug\net9.0\ExercicioProposto.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ExercicioProposto\bin\Debug\net9.0\ExercicioProposto.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ExercicioProposto\obj\Debug\net9.0\ExercicioProposto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ExercicioProposto\obj\Debug\net9.0\ExercicioProposto.AssemblyInfoInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ExercicioProposto\obj\Debug\net9.0\ExercicioProposto.AssemblyInfo.cs
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ExercicioProposto\obj\Debug\net9.0\ExercicioProposto.csproj.CoreCompileInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ExercicioProposto\obj\Debug\net9.0\ExercicioProposto.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ExercicioProposto\obj\Debug\net9.0\refint\ExercicioProposto.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ExercicioProposto\obj\Debug\net9.0\ExercicioProposto.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ExercicioProposto\obj\Debug\net9.0\ExercicioProposto.genruntimeconfig.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Secao13\ExercicioProposto\obj\Debug\net9.0\ref\ExercicioProposto.dll
