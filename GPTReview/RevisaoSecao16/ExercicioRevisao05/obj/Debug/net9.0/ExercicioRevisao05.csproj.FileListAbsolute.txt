@@ -1,0 +1,15 @@
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExercisesEndRewiel\GPTReview\RevisaoSecao16\ExercicioRevisao05\bin\Debug\net9.0\ExercicioRevisao05.exe
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExercisesEndRewiel\GPTReview\RevisaoSecao16\ExercicioRevisao05\bin\Debug\net9.0\ExercicioRevisao05.deps.json
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExercisesEndRewiel\GPTReview\RevisaoSecao16\ExercicioRevisao05\bin\Debug\net9.0\ExercicioRevisao05.runtimeconfig.json
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExercisesEndRewiel\GPTReview\RevisaoSecao16\ExercicioRevisao05\bin\Debug\net9.0\ExercicioRevisao05.dll
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExercisesEndRewiel\GPTReview\RevisaoSecao16\ExercicioRevisao05\bin\Debug\net9.0\ExercicioRevisao05.pdb
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExercisesEndRewiel\GPTReview\RevisaoSecao16\ExercicioRevisao05\obj\Debug\net9.0\ExercicioRevisao05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExercisesEndRewiel\GPTReview\RevisaoSecao16\ExercicioRevisao05\obj\Debug\net9.0\ExercicioRevisao05.AssemblyInfoInputs.cache
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExercisesEndRewiel\GPTReview\RevisaoSecao16\ExercicioRevisao05\obj\Debug\net9.0\ExercicioRevisao05.AssemblyInfo.cs
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExercisesEndRewiel\GPTReview\RevisaoSecao16\ExercicioRevisao05\obj\Debug\net9.0\ExercicioRevisao05.csproj.CoreCompileInputs.cache
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExercisesEndRewiel\GPTReview\RevisaoSecao16\ExercicioRevisao05\obj\Debug\net9.0\ExercicioRevisao05.sourcelink.json
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExercisesEndRewiel\GPTReview\RevisaoSecao16\ExercicioRevisao05\obj\Debug\net9.0\ExercicioRevisao05.dll
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExercisesEndRewiel\GPTReview\RevisaoSecao16\ExercicioRevisao05\obj\Debug\net9.0\refint\ExercicioRevisao05.dll
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExercisesEndRewiel\GPTReview\RevisaoSecao16\ExercicioRevisao05\obj\Debug\net9.0\ExercicioRevisao05.pdb
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExercisesEndRewiel\GPTReview\RevisaoSecao16\ExercicioRevisao05\obj\Debug\net9.0\ExercicioRevisao05.genruntimeconfig.cache
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\ExercisesEndRewiel\GPTReview\RevisaoSecao16\ExercicioRevisao05\obj\Debug\net9.0\ref\ExercicioRevisao05.dll
